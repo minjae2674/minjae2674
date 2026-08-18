@@ -14,6 +14,14 @@
 
 ---
 
+## Algorithm
+
+<a href="https://solved.ac/profile/chomin0514">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chomin0514" alt="solved.ac profile for chomin0514" />
+</a>
+
+---
+
 ## Tech Stack
 
 ### Backend
