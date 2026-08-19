@@ -74,7 +74,7 @@
 | Repository | What I explored |
 | --- | --- |
 | **[Quokkive](https://github.com/minjae2674/Quokkive)** | 스크린샷과 링크를 온디바이스 AI로 분석해 아카이브·검색·일정·할 일로 연결한 Android 팀 프로젝트 |
-| **[codex_ssafyHome_test](https://github.com/minjae2674/codex_ssafyHome_test)** | 지도 기반 아파트 검색과 JWT 인증 흐름을 Java와 Vue로 연결한 풀스택 실습 |
+| **[조서방 (JosuhBang)](https://github.com/minjae2674/JosuhBang)** | 지도 기반 부동산 정보·외국인 거주 히트맵·JWT 인증·뉴스 배치·Spring AI 상담을 구현한 SSAFY 팀 프로젝트 |
 | **[SpringAi](https://github.com/minjae2674/SpringAi)** | Spring AI·OpenAI 모델 연동, JDBC 채팅 메모리, JPA·MySQL 실습 |
 | **[SpringJWT](https://github.com/minjae2674/SpringJWT)** | Spring Security와 JJWT를 활용한 인증 흐름 구현 |
 | **[SpringBatch](https://github.com/minjae2674/SpringBatch)** | Spring Batch·JPA·JDBC를 활용한 배치 처리 학습 |
