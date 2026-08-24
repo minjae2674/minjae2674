@@ -5,6 +5,7 @@
   <p>
     Java와 Spring 생태계를 중심으로<br />
     백엔드의 동작 원리를 작은 코드로 확인하고 기록합니다.
+    https://repeated-lift-c82.notion.site/Backend-Portfolio-18a2a9102fb083088279012f80a28bcc?source=copy_link
   </p>
 
   <a href="https://github.com/minjae2674">
