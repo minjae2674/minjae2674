@@ -77,6 +77,7 @@
 | --- | --- |
 | **[Quokkive](https://github.com/minjae2674/quarchive)** | 스크린샷과 링크를 온디바이스 AI로 분석해 아카이브·검색·일정·할 일로 연결한 Android 팀 프로젝트 |
 | **[조서방 (JosuhBang)](https://github.com/minjae2674/joseobang)** | 지도 기반 부동산 정보·외국인 거주 히트맵·JWT 인증·뉴스 배치·Spring AI 상담을 구현한 SSAFY 팀 프로젝트 |
+| **[대두 축구 (daedu-soccer)](https://github.com/minjae2674/daedu-soccer-showcase)** | Flash 헤드 사커를 직접 분석해 Box2D(planck.js)로 재현하고, Node.js·WebSocket 서버 판정 동기화로 온라인 1:1·2:2·방 목록·채팅을 구현한 브라우저 게임 |
 | **[SpringAi](https://github.com/minjae2674/SpringAi)** | Spring AI·OpenAI 모델 연동, JDBC 채팅 메모리, JPA·MySQL 실습 |
 | **[SpringJWT](https://github.com/minjae2674/SpringJWT)** | Spring Security와 JJWT를 활용한 인증 흐름 구현 |
 | **[SpringBatch](https://github.com/minjae2674/SpringBatch)** | Spring Batch·JPA·JDBC를 활용한 배치 처리 학습 |
